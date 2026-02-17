@@ -56,14 +56,17 @@
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Aaryamanjhatakia/Aaryamanjhatakia/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaryamanjhatakia/Aaryamanjhatakia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaryamanjhatakia/Aaryamanjhatakia/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NeonNova/NeonNova/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/><br/><br/>
 </div>
-
+<hr/>
 
 
 <hr/>
